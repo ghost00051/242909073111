@@ -1,2 +1,6 @@
 Илья полу-лох
+<<<<<<< Updated upstream
 Sad
+=======
+Добавление
+>>>>>>> Stashed changes
